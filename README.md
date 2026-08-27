@@ -205,7 +205,7 @@ sample_data = [
 ]
 
 comparisons = compare_ner_predictions(model, sample_data, word2idx, idx2tag)
-print("Name: Athul Krishna A V\nReg No: 212225240017")
+print("Name: Arsha Jith S J\nReg No: 212224220010")
 print("-"*48)
 print(f"\n{'WORD':<15} | {'TRUE TAG':<12} | {'PREDICTED TAG'}")
 print("-" * 48)
